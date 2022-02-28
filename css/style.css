@@ -420,7 +420,7 @@ a {
       transform: translateX(0);
     }
     100% {
-      transform: translateX(-90px);
+      transform: translateX(-80px);
     }
   }
 }
@@ -430,7 +430,7 @@ a {
       transform: translateX(0);
     }
     100% {
-      transform: translateX(-110px);
+      transform: translateX(-100px);
     }
   }
 }
@@ -440,7 +440,7 @@ a {
       transform: translateX(0);
     }
     100% {
-      transform: translateX(-130px);
+      transform: translateX(-120px);
     }
   }
 }
@@ -450,7 +450,7 @@ a {
       transform: translateX(0);
     }
     100% {
-      transform: translateX(-240px);
+      transform: translateX(-210px);
     }
   }
 }
