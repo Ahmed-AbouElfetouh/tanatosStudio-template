@@ -72,7 +72,7 @@ a {
 /* Start Header */
 .header {
   position: relative;
-  background-image: url(../pics/header.jpg);
+  background-image: url(../images/header.jpg);
   background-size: cover;
   height: 100vh;
 }
@@ -242,7 +242,7 @@ a {
 .about .about-subscribe {
   margin-top: 100px;
   height: 250px;
-  background-image: url(../pics/sub.jpg);
+  background-image: url(../images/sub.jpg);
   background-attachment: fixed;
   background-size: cover;
   position: relative;
@@ -387,7 +387,7 @@ a {
 .testimonials {
   position: relative;
   height: 500px;
-  background-image: url(../pics/testimonials.jpg);
+  background-image: url(../images/testimonials.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -605,7 +605,7 @@ a {
 .contact {
   position: relative;
   height: 600px;
-  background-image: url(../pics/footer.jpg);
+  background-image: url(../images/footer.jpg);
   background-size: cover;
 }
 @media(max-width: 575px) {
