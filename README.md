@@ -1,4 +1,3 @@
-
 ## Hi, I'm Ahmed! 👋
 
 
@@ -6,16 +5,18 @@
 
 
 #  Tanatos Studio Template
+I built this project using (HTML, CSS, JavaScript).
 
-## What you will Find in Template
+in that project you will find :
 
-- Fully Responsive Template by [Media Queries].
-- Slider.
-- Show More / Less Content.
-- Scroll To Every Section On Page Smoothly.
-## Tech Stack
+1- Fully Responsive website by [Media Queries].
 
-**Client:** HTML, CSS, JavaScript.
+2- Slider.
+
+3- Show More / Less Content.
+
+4- Scroll to every section at website smoothly.
+
 
 ## For Live Preview [Click Here]( https://ahmed-abouelfetouh.github.io/tanatosStudio-template/)
 ## Project Screenshots
