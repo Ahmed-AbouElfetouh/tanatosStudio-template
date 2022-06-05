@@ -4,7 +4,7 @@
 ## 🚀 I'm a front-end developer...
 
 
-#  Tanatos Studio Template
+#  Tanatos Studio
 I built this project using (HTML, CSS, JavaScript).
 
 in that project you will find :
